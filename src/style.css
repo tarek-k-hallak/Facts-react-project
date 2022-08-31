@@ -54,13 +54,13 @@ nav.dark {
 }
 
 .toggler p {
-    font-size: 0.625rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
 
 .toggler--slider {
-    width: 25px;
-    height: 13px;
+    width: 35px;
+    height: 15px;
     background-color: #2B283A;
     border-radius: 2rem;
     margin-inline: 7px;
@@ -78,8 +78,8 @@ nav.dark .toggler--slider {
 }
 
 .toggler--slider--circle {
-    height: 13px;
-    width: 13px;
+    height: 15px;
+    width: 15px;
     background-color: white;
     border-radius: 50%;
 }
